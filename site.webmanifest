@@ -1,0 +1,21 @@
+{
+  "name": "Fundación Huellas del Futuro - HDF",
+  "short_name": "HDF Fundación",
+  "description": "Sembrando oportunidades y transformando comunidades rurales y urbanas en Colombia desde 2008.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#592bcb",
+  "icons": [
+    {
+      "src": "/assets/brand/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/brand/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

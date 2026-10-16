@@ -1,0 +1,23 @@
+{
+  "name": "hdf-fundacion-web",
+  "version": "1.0.0",
+  "description": "Sitio web oficial de la Fundación Huellas del Futuro (HDF) - hdffundacion.org",
+  "scripts": {
+    "start": "python -m http.server 3000",
+    "dev": "python -m http.server 3000",
+    "serve": "npx -y serve ."
+  },
+  "keywords": [
+    "fundacion",
+    "huellas-del-futuro",
+    "desarrollo-rural",
+    "colombia",
+    "cacao",
+    "aguacate",
+    "citricos",
+    "infancia",
+    "ong"
+  ],
+  "author": "Fundación Huellas del Futuro",
+  "license": "UNLICENSED"
+}
