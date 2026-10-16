@@ -1,7 +1,7 @@
 {
   "name": "hdf-fundacion-web",
   "version": "1.0.0",
-  "description": "Sitio web oficial de la Fundación Huellas del Futuro (HDF) - hdffundacion.org",
+  "description": "Sitio web oficial de la Fundación Huellas del Futuro (HDF) - fundacionhdf.org",
   "scripts": {
     "start": "python -m http.server 3000",
     "dev": "python -m http.server 3000",

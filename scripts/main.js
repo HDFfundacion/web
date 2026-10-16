@@ -1,5 +1,5 @@
 /**
- * Fundación Huellas del Futuro (HDF) - Portal Web Oficial (hdffundacion.org)
+ * Fundación Huellas del Futuro (HDF) - Portal Web Oficial (fundacionhdf.org)
  * Main Unified Scripts Bundle (Zero-dependency, Vanilla JS, Works both via file:// and http://)
  */
 
